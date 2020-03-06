@@ -23,7 +23,7 @@ Thus, each image is square (height = num_px) and (width = num_px).
 # 图片形状可以用shape函数得出
 # print(train_set_x_orig.shape)
 # (209, 64, 64, 3)
-# 图片数据 arry = [m_train, num_px, num_px, 3
+# 图片数据 arry = [m_train, num_px, num_px, 3]
 m_train = train_set_x_orig.shape[0]
 m_test = test_set_x_orig.shape[0]
 num_px = train_set_x_orig.shape[1]

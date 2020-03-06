@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/Week4/Assignment2/Deep Neural Network Application Image Classiffication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/Week4/Assignment1/Building your Deep Neural Network Step by Step" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/Week3/onehideen_layer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Neural Networks and Deep Learning/Week2/Logistic_Regression" isTestSource="false" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (pytorch-gpu)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
