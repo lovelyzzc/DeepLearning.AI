@@ -115,7 +115,7 @@ def model(X_train, Y_train, X_test, Y_test, learning_rate=0.0001, num_epochs=150
 
             if print_cost and epoch % 100 == 0:
                 print('Cost after epoch {}: {}'.format(epoch, epoch_cost))
-                costs.append(cost)
+                costs.append(epoch_cost)
 
         plt.plot(np.squeeze(costs))
         plt.ylabel('cost')
